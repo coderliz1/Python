@@ -1,3 +1,7 @@
-healthy = ["pizza", "frozen custard", "apple crisp" ]
+healthy = ["kale chips", "broccoli"]
 
-print("chicken pot pie" in healthy)
+backpack = ["pizza", "frozen custard", "apple crisp", "kale chips" ]
+
+backpack.remove("pizza")
+
+print(backpack)
