@@ -187,3 +187,18 @@ data[:] = data[::-1]
 print(data)
 
 
+
+data = ["a", "b", "c" "d"]
+
+me = "caleb"
+you = "subscriber"
+
+print(me, you)
+
+temp = me
+me = you
+you = temp
+
+print(me, you)
+
+
