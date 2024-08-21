@@ -188,7 +188,7 @@ print(data)
 
 
 
-data = ["a", "b", "c" "d"]
+data = ["a", "b", "c" "d", "e", "f", "g", "h"]
 
 me = "caleb"
 you = "subscriber"
@@ -200,5 +200,8 @@ me = you
 you = temp
 
 print(me, you)
+
+
+
 
 
